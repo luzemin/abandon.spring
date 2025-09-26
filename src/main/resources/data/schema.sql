@@ -1,4 +1,4 @@
-CREATE DATABASE `NetLoveSpring`
+CREATE DATABASE `AbandonSpring`
 
 CREATE TABLE `user` (
   `id` int NOT NULL AUTO_INCREMENT,

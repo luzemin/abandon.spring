@@ -10,11 +10,10 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.netlovespring</groupId>
-    <artifactId>netlovespring</artifactId>
+    <groupId>com.abandon</groupId>
+    <artifactId>abandon.spring</artifactId>
     <version>0.0.1</version>
-    <name>NetLoveSpring</name>
-    <description>Net Love Spring</description>
+    <name>AbandonSpring</name>
 
     <properties>
         <java.version>17</java.version>
@@ -153,7 +152,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.netlovespring.NetLoveSpringApplication</mainClass>
+                            <mainClass>com.abandon.AbandonSpringApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
